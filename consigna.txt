@@ -1,0 +1,7 @@
+Seguimiento de la última conexión de usuarios a la red en un periodo determinado. 
+Debe incluir la posibilidad de ingresar un rango de fechas, 
+se debe mostrar una lista de los usuarios y la fecha de la última conexión. 
+
+
+
+
